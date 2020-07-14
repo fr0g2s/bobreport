@@ -1,5 +1,5 @@
 syntax : add-nbo \<file1\> \<file2\><br>
-sample : add-nbo a.bin c.bin<br>
+sample : ./add-nbo a.bin c.bin<br>
 <br>
 # Usage<br>
 <br>
